@@ -1,5 +1,7 @@
 # Bulk Upload SPFx
 
+![alt](/src/webparts/bulkUploadSpFx/assets/SPFx%20solution%20-%20Bulk%20upload%20items%20in%20SharePoint%20list%20using%20Excel.png)
+
 A simple SPFx solution built with React for bulk data addition to SharePoint lists. Originally developed for adding testing data quickly, this solution can also be useful in projects that require bulk data addition.
 
 ## Overview
