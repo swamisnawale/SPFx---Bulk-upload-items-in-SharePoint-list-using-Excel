@@ -21,3 +21,26 @@ It provides two upload methods:
 - [Node.js](https://nodejs.org/) (v18.x.x or above)
 - [PnPjs](https://pnp.github.io/pnpjs/)
 - [SheetJS](https://sheetjs.com/)
+
+## My Devleopment Environment Setup
+
+1. Node version = 18.20.3
+2. Operating System = Windows 11
+
+## Libraries Installation Commands
+
+1. **PnPjs**
+   ```bash
+   npm install @pnp/sp @pnp/graph --save
+   ```
+2. **SheetJS**
+
+   ```bash
+   npm i https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz --save
+   ```
+
+3. **PnP SPFx Property Controls**
+
+   ```bash
+   npm install @pnp/spfx-property-controls --save
+   ```
